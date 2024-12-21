@@ -8,6 +8,8 @@ This platform uses stablecoins, ensuring predictable tuition costs and preventin
 
 ## Contract Address
 0xc13304de14e071c700938408f928da7c27362277
+![image](https://github.com/user-attachments/assets/415585da-dddd-46ae-ac86-ae55f07c9222)
+
 
 ## Project Vision
 Our vision is to democratize education by empowering educators and learners worldwide through a blockchain-based system. By using stablecoins and smart contracts, we aim to create a trustless, transparent, and incentivized learning environment where knowledge becomes an accessible currency.
